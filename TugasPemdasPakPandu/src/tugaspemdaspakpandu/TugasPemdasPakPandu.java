@@ -1,6 +1,9 @@
 package tugaspemdaspakpandu;
 import java.util.Scanner;
 public class TugasPemdasPakPandu {
+    /**
+     * @param args
+     */ 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
        System.out.print("Masukkan x : ");
